@@ -1,0 +1,6 @@
+{
+  "token": "your bot's token",
+  "clientId": "your bot's id",
+	"guildId": "put a server id that only you have access to that server",
+  "linkedChannels": []
+}
